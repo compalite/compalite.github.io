@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title>my first article(just for test)</title>
-      <link href="/2024/11/25/my-first-article-just-for-test/"/>
-      <url>/2024/11/25/my-first-article-just-for-test/</url>
+      <title>我的第一篇文章</title>
+      <link href="/2024/11/25/my-first-article/"/>
+      <url>/2024/11/25/my-first-article/</url>
       
         <content type="html"><![CDATA[<h1 id="this-is-my-first-article-in-my-blog"><a href="#this-is-my-first-article-in-my-blog" class="headerlink" title="this is my first article in my blog"></a>this is my first article in my blog</h1><p>this site is used for testing my hexo blog<br>yayaya</p>]]></content>
       
